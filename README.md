@@ -1,8 +1,6 @@
-# Welcome
+# Welcome...
 
-<div style="text-align: center">
-<h3>FIND ME <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
-</div>
+<center><h3>FIND ME <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3></center>
 
 <h2>🎓 Education</h2>
 <div>
