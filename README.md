@@ -1,6 +1,4 @@
-<div style="background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);; width: 100%; height: 120px; justify-content: center; align-items: center; text-align: center">
-<p style="font-size: xxx-large; text-align: center; color: #fa709a; height: 120px; line-height: 120px;">Welcom...</p>
-</div>
+# Welcome
 
 <div style="text-align: center">
 <h3>FIND ME <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
