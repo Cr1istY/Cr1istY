@@ -1,6 +1,6 @@
 # Welcome...
 
-<center><h3>FIND ME <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3></center>
+<h3 style="center">FIND ME <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
 
 <h2>🎓 Education</h2>
 <div>
