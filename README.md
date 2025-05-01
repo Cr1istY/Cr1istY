@@ -41,7 +41,7 @@
 
 ---
 
-<div style="text-align: center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1istY&layout=donut&theme=transparent&bg_color=0&hide_title=true&text_color=000" alt="" style="height: 200px;">
 <img src="https://github-readme-stats.vercel.app/api?username=Cr1istY&show_icons=true&theme=transparent&hide_title=true&text_color=000&icon_color=000&bg_color=0" alt="" style="height: 200px;">
 </div>
