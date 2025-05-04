@@ -33,7 +33,7 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/-HTML5-FF3B30?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-FF9500?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-Java-FFE4E1?style=flat-square&logo=java" /> 
+<img src="https://img.shields.io/badge/-Java-FFE4E1?style=flat-square&logo=intellijidea" /> 
 <img src="https://img.shields.io/badge/-JavaScript-FF4D8c?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-Cpp-B71C71?style=flat-square&logo=cplusplus" />
