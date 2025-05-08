@@ -1,6 +1,6 @@
 # 🥰Hello...
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=Good+Morning" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=Good+Day+!+!+!" alt="Typing SVG" /></a></div>
 
 ## 🤗About Me
 
@@ -21,6 +21,8 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/-HTML5-FF3B30?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-FF9500?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-Vue-191970?style=flat-square&logo=vuedotjs" /> 
+<img src="https://img.shields.io/badge/-Java-556B2F?style=flat-square&logo=intellijidea" /> 
 <img src="https://img.shields.io/badge/-JavaScript-FF4D8c?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-Cpp-B71C71?style=flat-square&logo=cplusplus" />
