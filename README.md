@@ -4,21 +4,9 @@
 
 ## 🤗About Me
 
-### 🐱College
-
-<div align="center"><strong>Im a undergraduate</strong> from Chongqing who learn IOT(internet with things, internet with the world)</div>
-
-<div align="center">CQUPT - IOT(2023 - NOW)</div>
-
-### 📸Photography
-
-<div align="center"><strong>Photography</strong> is the best thing in my life.</div>
-
-<div align="center"><strong>Henri Cartier·Bresson</strong> && <strong>Stephen Shore</strong></div>
-
-### 🪐OutSide
-
-<div align="center"><strong>Do not go gentle into that good night</strong></div>
+- 🐱College  CQUPT - IOT(2023 - NOW)
+- 📸Photography  
+- 🪐OutSide
 
 <h3 align="center">FIND MORE <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
 
