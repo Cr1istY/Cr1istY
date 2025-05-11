@@ -8,7 +8,7 @@
 - 📸At the heart of the image.
 - 🪐The cosmos is within us, We are made of star-stuff.
 - 🫵Life is a challenge, meet it.
-- 😼Programing is creating.
+- 😼Programing is the creating.
 
 <h3 align="center">FIND MORE <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
 
