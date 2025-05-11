@@ -4,9 +4,11 @@
 
 ## 🤗About Me
 
-- 🐱College  CQUPT - IOT(2023 - NOW)
-- 📸Photography  
-- 🪐OutSide
+- 🏫CQUPT - IOT(2023 - NOW)
+- 📸At the heart of the image.
+- 🪐The cosmos is within us, We are made of star-stuff.
+- 🫵Life is a challenge, meet it.
+- 😼Programing is creating.
 
 <h3 align="center">FIND MORE <a href="http://foreveryang.cn" target="_blank">😁Here</a></h3>
 
