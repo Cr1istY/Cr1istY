@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-Cpp-B71C71?style=flat-square&logo=cplusplus" />
 <img src="https://img.shields.io/badge/-Java-556B2F?style=flat-square&logo=intellijidea" /> 
-<img src="https://img.shields.io/badge/-Goland-84A9AC?style=flat-square&logo=goland" /> 
+<img src="https://img.shields.io/badge/-Go-84A9AC?style=flat-square&logo=go" /> 
 </div>
 
 ---
