@@ -23,14 +23,12 @@
 </div>
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/-HTML5-FF3B30?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-FF9500?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-Vue-191970?style=flat-square&logo=vuedotjs" /> 
 <img src="https://img.shields.io/badge/-JavaScript-FF4D8c?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-Cpp-B71C71?style=flat-square&logo=cplusplus" />
 <img src="https://img.shields.io/badge/-Java-556B2F?style=flat-square&logo=intellijidea" /> 
-<img src="https://img.shields.io/badge/-Goland-84A9AC?style=flat-square&logo=goland" /> 
+<img src="https://img.shields.io/badge/-Go-84A9AC?style=flat-square&logo=go" /> 
 </div>
 
 ---
