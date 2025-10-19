@@ -1,3 +1,5 @@
+<img src="img/Asuka.jpg">
+
 # 🥰Hello...
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=Good+Day+!+!+!" alt="Typing SVG" /></a></div>
