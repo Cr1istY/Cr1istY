@@ -2,7 +2,7 @@
 
 # 🥰Hello...
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=Do+not+forget+L+O+V+E" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=Treasure+u+Loved" alt="Typing SVG" /></a></div>
 
 ## 🤗About Me
 
