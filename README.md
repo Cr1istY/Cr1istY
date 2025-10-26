@@ -42,6 +42,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cr1istY&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="./img/1.png">
+<div align="center">
+  <img src="./img/20251022191057.jpg">
+</div>
 
 
