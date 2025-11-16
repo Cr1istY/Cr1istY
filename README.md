@@ -7,7 +7,8 @@
 <h3>你好....</h3>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&size=30&pause=1000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=这里是小杨同学;fmt.print(%22Hello%2C%20World%22)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&size=30&pause=1000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=这里是小杨同学;fmt.print(%22Hello%2C%20World%22);printf(%22World%2c%20Peace%22)">
 
 </div>
 
@@ -18,15 +19,13 @@
 
 ### About Me
 
-<img align="right" highth="90" width="88" src="img/foreveyang.png" />
-
 <p>&emsp;&emsp;- 🏫CQUPT - IOT(2023 - NOW)</p>
 <p>&emsp;&emsp;- 📸At the heart of the image.</p>
+<img align="right" width="88" src="img/foreveryang.png" />
 <p>&emsp;&emsp;- 🪐The cosmos is within us, We are made of star-stuff.</p>
 <p>&emsp;&emsp;- 🫵Life is a challenge, meet it.</p>
 <p>&emsp;&emsp;- 😼Programing is the creating.</p>
 
-<p align="center"><strong>FIND MORE</strong> <a href="http://foreveryang.cn" target="_blank">😁Here</a></p>
 
 </tr></td>
 
@@ -42,12 +41,12 @@
 
 <tr><td>
 <div align="center"> 
-<img src="https://img.shields.io/badge/-Vue-191970?style=flat-square&logo=vuedotjs" /> 
-<img src="https://img.shields.io/badge/-JavaScript-FF4D8c?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Vue-FF4D8c?style=flat-square&logo=vuedotjs" /> 
+<img src="https://img.shields.io/badge/-TypeScript-191970?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-Cpp-B71C71?style=flat-square&logo=cplusplus" />
-<img src="https://img.shields.io/badge/-Java-556B2F?style=flat-square&logo=intellijidea" /> 
-<img src="https://img.shields.io/badge/-Go-84A9AC?style=flat-square&logo=go" /> 
+<img src="https://img.shields.io/badge/-Go-556B2F?style=flat-square&logo=go" /> 
+<img src="https://img.shields.io/badge/-Java-84A9AC?style=flat-square&logo=intellijidea" /> 
 </div>
 </tr></td>
 </table>
@@ -92,7 +91,7 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,instagram,git" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -103,9 +102,9 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
+<h1 align="center"><strong>FIND MORE</strong> <a href="http://foreveryang.cn" target="_blank">😁Here</a></h1>
 
 </div>
-
 
 
 
