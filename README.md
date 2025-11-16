@@ -8,7 +8,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&size=30&pause=1000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=这里是小杨同学;fmt.print(%22Hello%2C%20World%22)">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=435&size=30&pause=1000&color=FF4500&background=FF411300&center=true&vCenter=true&width=600&lines=这里是小杨同学;fmt.print(%22Hello%2C%20World%22)"></a>
 
 </div>
 
