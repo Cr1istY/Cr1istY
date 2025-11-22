@@ -2,8 +2,6 @@
 
 ---
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Cr1istY&theme=light&column=6&row=1"></div>
-
 <h3>你好....</h3>
 
 <div align="center">
