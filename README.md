@@ -1,6 +1,6 @@
 <h1>🤗Thanks</h1>
 
-<div align="center">
+<div align="center" width="auto">
 <table>
 <tr><td>
 
