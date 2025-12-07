@@ -1,7 +1,7 @@
 <h1>🤗Thanks</h1>
 
-<div align="center" width="500">
-<table>
+<div align="center">
+<table style="width: 100%;">
 <tr><td>
 
 ### About Me
@@ -13,12 +13,8 @@
 <p>&emsp;&emsp;- 🫵Life is a challenge, meet it.</p>
 <p>&emsp;&emsp;- 😼Programing is the creating.</p>
 
-</tr></td>
-
+</td></tr>  <!-- 修复了标签顺序 -->
+</table>
 </div>
-<h1 align="center"><strong>FIND MORE</strong> <a href="http://foreveryang.cn" target="_blank">😁Here</a></h1>
 
-
-
-
-
+<h1 align="center"><strong>FIND MORE</strong> <a href="http://foreveryang.cn" target="_blank">😁Here</a></h1>  <!-- 移除了URL末尾的空格 -->
