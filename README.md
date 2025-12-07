@@ -1,5 +1,6 @@
 <h1>🤗Thanks</h1>
 
+<div align="center">
 <table>
 <tr><td>
 
@@ -14,6 +15,7 @@
 
 </tr></td>
 
+</div>
 <h1 align="center"><strong>FIND MORE</strong> <a href="http://foreveryang.cn" target="_blank">😁Here</a></h1>
 
 
