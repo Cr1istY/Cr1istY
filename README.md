@@ -4,6 +4,7 @@
 <table style="width: 100%;">
 <tr><td>
 
+<div width="100%">
 ### About Me
 
 <p>&emsp;&emsp;- 🏫CQUPT - IOT(2023 - NOW)</p>
@@ -12,6 +13,8 @@
 <p>&emsp;&emsp;- 🪐The cosmos is within us, We are made of star-stuff.</p>
 <p>&emsp;&emsp;- 🫵Life is a challenge, meet it.</p>
 <p>&emsp;&emsp;- 😼Programing is the creating.</p>
+
+</div>
 
 </td></tr>  <!-- 修复了标签顺序 -->
 </table>
